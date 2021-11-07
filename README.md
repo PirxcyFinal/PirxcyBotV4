@@ -1,2 +1,10 @@
 # PirxcyBotV4
-The Forth Version of PirxcyBot this is the best one i have made it includes a blacklist with users and admin controls (will be updated frequently)
+Very sexy lobbybot for replit
+[![Downloads](https://pepy.tech/badge/PirxcyPinger)](https://pepy.tech/project/PirxcyPinger)
+
+
+### Setup:
+
+
+[Source](https://pypi.org/project/LobbyBot/ "https://pypi.org/project/LobbyBot/")
+
