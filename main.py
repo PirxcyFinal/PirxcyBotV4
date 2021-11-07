@@ -1,1 +1,1 @@
-import Lobbybot
+import LobbyBot
