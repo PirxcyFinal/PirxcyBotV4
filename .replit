@@ -1,2 +1,2 @@
-langauge = "bash"
+langauge = "python3"
 run = "pip3 install -U LobbyBot >/dev/null 2>&1python3 main.py"
