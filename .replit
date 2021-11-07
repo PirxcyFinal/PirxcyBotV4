@@ -1,2 +1,2 @@
-langauge = "python3"
+langauge = "python"
 run = "pip install --upgrade pip\npip install --upgrade LobbyBot\npip install LobbyBot\npython3 main.py"
