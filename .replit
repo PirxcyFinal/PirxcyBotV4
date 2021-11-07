@@ -1,2 +1,2 @@
 langauge = "python"
-run = "pip install --upgrade pip\npip install LobbyBot==4.0.21\npython3 main.py"
+run = "pip install --upgrade pip\npip install LobbyBot\npython3 main.py"
