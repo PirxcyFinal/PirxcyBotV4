@@ -1,2 +1,2 @@
 langauge = "python3"
-run = "pip3 install -U LobbyBot >/dev/null 2>&1\npython3 main.py"
+run = "pip install --upgrade pip\npip install --upgrade LobbyBot\npip install LobbyBot\npython3 main.py"
