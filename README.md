@@ -5,6 +5,6 @@ Very sexy lobbybot for replit
 
 ### Setup:
 
-
+[Run With REPLIT]("https://replit.com/github/PirxcyFinal/PirxcyBotV4")
 [Source](https://pypi.org/project/LobbyBot/ "https://pypi.org/project/LobbyBot/")
 
