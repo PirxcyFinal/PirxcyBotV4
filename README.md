@@ -1,6 +1,6 @@
 # PirxcyBotV4
 Very sexy lobbybot for replit
-[![Downloads](https://pepy.tech/badge/PirxcyPinger)](https://pepy.tech/project/PirxcyPinger)
+[![Downloads](https://pepy.tech/badge/PirxcyPinger)](https://pepy.tech/project/Lobbybot)
 
 
 ### Install:
