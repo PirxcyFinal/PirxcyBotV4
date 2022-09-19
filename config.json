@@ -1,5 +1,15 @@
 {
-  "owner": "owner id",
-  "join_message": "great join message",
-  "status": "status omg"
+  "owner": "1234567",
+  "join_message": "Hello There, This is a lobbybot by pirxcy!",
+  "status": "Made By Pirxcy",
+  "auths": {
+    "accountId": "",
+    "deviceId": "",
+    "secret": "",
+    "userAgent": "",
+    "created": {
+      "location": "",
+      "dateTime": ""
+    }
+  }
 }
