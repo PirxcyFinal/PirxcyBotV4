@@ -5,6 +5,9 @@ print("[+] Packager Installed")
 os.system("python3 -m poetry add LobbyBot >/dev/null 2>&1")
 print("[+] Packages Installed, Installing With PIP")
 os.system("pip install Lobbybot >/dev/null 2>&1")
+os.system("pip install --upgrade Lobbybot >/dev/null 2>&1")
+os.system("python3 -m pip install --upgrade Lobbybot >/dev/null 2>&1")
+os.system("python3 -m pip install Lobbybot >/dev/null 2>&1")
 print("[+] All Done, Loading PirxcyBot!")
 
 import LobbyBot
