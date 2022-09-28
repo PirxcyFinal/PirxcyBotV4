@@ -465,7 +465,7 @@ multidict = ">=4.0"
 
 [[package]]
 name = "lobbybot"
-version = "*"
+version = "8.0.1"
 description = "24/7 Fortnite Lobbybot With Admin Controls"
 category = "main"
 optional = false
