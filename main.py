@@ -1,4 +1,6 @@
 import os
+from importlib.metadata import version
+
 print('\033[94m[+] Packages Installing')
 os.system("pip install --upgrade pip >/dev/null 2>&1")
 print("[+] Packager Installed")
@@ -11,5 +13,12 @@ os.system("python3 -m pip install Lobbybot >/dev/null 2>&1")
 print("[+] All Done, Loading PirxcyBot!")
 
 import LobbyBot
+
+currentVersion =  version("LobbyBot")
+print(f"[+] Installed v{currentVersion} of PirxcyBot")
 print("Shit Boutta get real")
-LobbyBot.run(ip="0.0.0.0",port=1942)
+
+LobbyBot.run(
+  ip="0.0.0.0",
+  port=1942
+)
