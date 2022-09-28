@@ -5,7 +5,7 @@ print('\033[94m[+] Packager Installing')
 os.system("pip install --upgrade pip >/dev/null 2>&1")
 print("[+] Packager Installed, Installing PirxcyBot")
 os.system("python3 -m poetry add LobbyBot")
-os.system
+os.system("python3 -m poetry add LobbyBot@latest")
 print("[+] Packages Installed, Installing With PIP")
 os.system("pip install Lobbybot >/dev/null 2>&1")
 os.system("pip install --upgrade Lobbybot >/dev/null 2>&1")
