@@ -16,7 +16,7 @@ print("[+] All Done, Loading PirxcyBot!")
 import LobbyBot
 
 currentVersion =  version("LobbyBot")
-print(f"[+] Installed v{currentVersion} of PirxcyBot!\033[0m")
+print(f"\033[94m[+] Installed v{currentVersion} of PirxcyBot!\033[0m")
 print("Shit Boutta get real")
 
 LobbyBot.run(
